@@ -1,6 +1,6 @@
 # @apilki/yandex-market — Postman Collection
 
-**Запросов: 174 · Собрано: 2026-11-25**
+**Запросов: 174 · Собрано: 2026-11-28**
 
 Готовая [Postman Collection v2.1](postman/collection.json) для **Yandex Market Partner API**: 174 запроса — все операции официальной спецификации, по папкам-разделам.
 
